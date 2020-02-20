@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "firstName": "dsfd",
+      "lastName": "gfhfh",
+      "email": "hjjghj@gmail.com",
+      "password": "fdgdfgfh",
+      "temporaryaddress": [
+        {
+          "city": "sfsdfdfd",
+          "state": "Andhra Pradesh",
+          "country": "dghdfh",
+          "pincode": "500045",
+          "mobilenumber": "8121881264"
+        }
+      ],
+      "permananeaddress": [
+        {
+          "city": "sfsdfdfd",
+          "state": "Andhra Pradesh",
+          "country": "hhh",
+          "pincode": "500045",
+          "mobilenumber": "8121881264"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "temporaryaddress": [
+        {
+          "city": "",
+          "state": "",
+          "country": "",
+          "pincode": "",
+          "mobilenumber": ""
+        }
+      ],
+      "permananeaddress": [
+        {
+          "city": "",
+          "state": "",
+          "country": "",
+          "pincode": "",
+          "mobilenumber": ""
+        }
+      ],
+      "image": "",
+      "id": 3
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "temporaryaddress": [
+        {
+          "city": "",
+          "state": "",
+          "country": "",
+          "pincode": "",
+          "mobilenumber": ""
+        }
+      ],
+      "permananeaddress": [
+        {
+          "city": "",
+          "state": "",
+          "country": "",
+          "pincode": "",
+          "mobilenumber": ""
+        }
+      ],
+      "image": "",
+      "id": 4
+    }
+  ]
+}
